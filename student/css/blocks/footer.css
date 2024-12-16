@@ -1,0 +1,8 @@
+.footer__wrapper {
+    display: flex;
+}
+
+.footer__left {
+    display: flex;
+    justify-content: space-between;
+}
